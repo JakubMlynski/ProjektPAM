@@ -17,5 +17,7 @@ Funkcjonalności
 Instrukcja uruchomienia (windows)
 
 cd (lokalizacja aplikacji)
+
 flutter pub get
+
 flutter run
